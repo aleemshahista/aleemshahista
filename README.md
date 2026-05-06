@@ -49,59 +49,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Multilingual AI Translator (Nepali & Sinhala)
-> Python · PyTorch · HuggingFace · M2M-100/NLLB · Tesseract · Flask · SQLite
-
-- Built **offline/online image-to-image & PDF-to-PDF** translator for Nepali & Sinhala → English
-- Integrated OCR with transformer batching & caching — achieved **35% faster inference**
-
----
-
-### ⚖️ Generative AI — Legal Document Simplifier
-> Python · LLMs · Transformers · OCR · NLP · Flask
-
-- Developed an AI tool using **LLMs & OCR** to auto-simplify legal contracts and flag high-risk clauses
-- Added **clause comparison** and compliance checklist features for non-legal users
-
----
-
-### 🚗 AI Car — Real-time Damaged Road & Lane Detection
-> Python · TensorFlow/Keras · OpenCV · Scikit-learn
-
-- Trained **CNN model** on Kaggle datasets to detect potholes, road cracks & lane deviations in real-time video
-- Applied computer vision pipelines to enhance detection accuracy for **autonomous driving safety**
-
----
-
-### 🧠 MindTrack — Big Data Mental Health Trend Predictor
-> Python · Pandas · NumPy · Streamlit · Flask
-
-- Built a real-time **mental health trend prediction system** with interactive Streamlit dashboard
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aleemshahista&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aleemshahista&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=aleemshahista&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aleemshahista&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </div>
-
----
-
-## 📜 Certifications
-
-| Certification | Platform |
-|---|---|
-| Algorithms for Searching, Sorting & Indexing | Coursera |
-| Ask Questions to Make Data-Driven Decisions | Coursera |
-| Introduction to Operating Systems | Coursera |
-| Data Science 101 | IBM SkillsBuild |
-| Data Visualization with Power BI | Microsoft |
-| Web Development Fundamentals | IBM SkillsBuild |
 
 ---
 
