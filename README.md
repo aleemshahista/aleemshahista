@@ -53,8 +53,6 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aleemshahista&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=aleemshahista&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </div>
 
 ---
