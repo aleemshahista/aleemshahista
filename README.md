@@ -27,7 +27,7 @@
 - 🤖 Passionate about **Machine Learning, NLP, Computer Vision, and Generative AI**
 - 🚀 Love building **end-to-end AI systems** that solve real-world problems
 - ⚡ Achieved **35% faster inference** through transformer batching & caching strategies
-- 💬 Ask me about **Python, Java, PyTorch, HuggingFace, TensorFlow, NLP, Deep Learning, Flask, MySQL, MongoDB**
+- 💬 Ask me about **Python,PyTorch, HuggingFace, TensorFlow, NLP, Deep Learning, Flask, MySQL, MongoDB**
 - 📫 Reach me at **aleemshahista@gmail.com**
 
 ---
